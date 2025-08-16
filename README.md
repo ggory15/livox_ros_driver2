@@ -29,7 +29,7 @@ A Desktop-Full installation is recommended.
 # Example workspace structure
 mkdir -p ~/livox_ws/src
 cd ~/livox_ws/src
-git clone <URL_of_this_fork>
+git clone https://github.com/ggory15/livox_ros_driver2
 ```
 
 ### 2.2 Build & install the Livox-SDK2
